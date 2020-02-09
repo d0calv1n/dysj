@@ -1,0 +1,2 @@
+vfed主题设置,/index.php/label/admin
+vfed采集资源,/index.php/label/union
